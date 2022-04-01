@@ -5,7 +5,7 @@ This repository contains the code and datasets from Bloom and Let's Read Asia we
 Paper Link: https://arxiv.org/abs/2203.17225
 
 Citation:
-```bash
+```
 Reyes, L. L. A., & Ibañez, M. A., & Sapinit, R., & Hussien, M., Imperial, J. M. (2022). A Baseline Readability Model for Cebuano. arXiv preprint arXiv:2203.17225.
 }
 ```
