@@ -1,6 +1,6 @@
 # Baseline Readability Assessment Model for Cebuano
 
-This repository contains the code and datasets from Bloom and Let's Read Asia websites used for developing the first ML-based baseline for readability assessment in the Cebuano language described in the paper **A Baseline Readability Model for Cebuano**. 
+This repository contains the code and datasets from Bloom, Let's Read Asia, and Department of Education (DepEd) websites used for developing the first ML-based baseline for readability assessment in the Cebuano language described in the paper **A Baseline Readability Model for Cebuano**. 
 
 Paper Link: https://arxiv.org/abs/2203.17225
 
