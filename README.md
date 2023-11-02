@@ -11,6 +11,9 @@ Please also add the following citation to your paper/presentation if you use the
 Reyes, L. L. A., & Ibañez, M. A., & Sapinit, R., & Hussien, M., Imperial, J. M. (2022). A Baseline Readability Model for Cebuano. arXiv preprint arXiv:2203.17225.
 ```
 
+### Note on Data Cataloging
+Please send an email before submitting this repository to any data cataloging, data aggregation, and benchmarking projects/initiatives. The proponents of the paper of this dataset would like to be acknowledged appropriately or involved in co-authorship.
+
 ## Contact
 
 If you need any help reproducing the results, please don't hesitate to contact me through
